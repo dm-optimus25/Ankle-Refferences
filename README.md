@@ -1,1 +1,5 @@
-# Ankle-Refferences
+[1] J. Hertel and R. O. Corbett, “An Updated Model of Chronic Ankle Instability,” J. Athl. Train., vol. 54, no. 6, pp. 572–588, Jun. 2019, doi: 10.4085/1062-6050-344-18. 
+[2] J. Hertel, “Functional Anatomy, Pathomechanics, and Pathophysiology of Lateral Ankle Instability,” J. Athl. Train., vol. 37, no. 4, pp. 364–375, 2002. 
+[3] R. M. Koldenhoven, J. Hart, M. F. Abel, S. Saliba, and J. Hertel, “Running gait biomechanics in females with chronic ankle instability and ankle sprain copers,” Sports Biomech., vol. 21, no. 4, pp. 447–459, Apr. 2022, doi: 10.1080/14763141.2021.1977378. 
+[4] R. M. Koldenhoven, J. Hart, S. Saliba, M. F. Abel, and J. Hertel, “Gait kinematics & kinetics at three walking speeds in individuals with chronic ankle instability and ankle sprain copers,” Gait Posture, vol. 74, pp. 169–175, Oct. 2019, doi: 10.1016/j.gaitpost.2019.09.010. 
+[5] I. Lee, S. Ha, S. Chae, H. S. Jeong, and S. Y. Lee, “Altered Biomechanics in Individuals With Chronic Ankle Instability Compared With Copers and Controls During Gait,” J. Athl. Train., vol. 57, no. 8, pp. 760–770, Aug. 2022, doi: 10.4085/1062-6050-0605.20. 
